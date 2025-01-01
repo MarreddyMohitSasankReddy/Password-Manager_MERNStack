@@ -196,5 +196,5 @@ Contributions are welcome! To contribute:
 For any inquiries, please contact:
 
 - **Author**: Mohit Marreddy
-- **Email**:mohit(mailto:[.marreddy470@gmail.com](mailto:.marreddy470@gmail.com))
+- **Email**:(mailto:[mohit.marreddy470@gmail.com](mailto:mohit.marreddy470@gmail.com))
 
